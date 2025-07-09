@@ -1,4 +1,14 @@
-.page2_div{
+.page2_div {
     background-color: rgb(0, 128, 255);
     color: white;
+}
+
+.page1_div {
+    background-color: rgb(195, 148, 207);
+    color: rgba(0, 0, 0, 0);
+}
+
+#p5{
+    background-color:red;
+    color:blue;
 }
